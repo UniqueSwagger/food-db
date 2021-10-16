@@ -1,0 +1,156 @@
+{
+  "lunch": [
+    {
+      "id": 1,
+      "name": "Healthy Meal Plan",
+      "price": "23.99",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/JHxSZsG/lunch1.png"
+    },
+    {
+      "id": 2,
+
+      "name": "Fried Chicken Bento",
+      "price": "9.99",
+      "desc": "Lorem ipsum dolor  adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/V3g48nR/lunch2.png"
+    },
+    {
+      "id": 3,
+
+      "name": "Tarragon-Rubbed-Salmon",
+      "price": "6.99",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/4mvNJCP/lunch3.png"
+    },
+    {
+      "id": 4,
+      "name": "Indian Lunch",
+      "price": "23",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/cNJRK0L/lunch4.png"
+    },
+    {
+      "id": 5,
+      "name": "Beef Steak",
+      "price": "15.99",
+      "desc": "Lorem ipsum adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/PhF2dvP/lunch5.png"
+    },
+    {
+      "id": 6,
+      "name": "Honey-Soy-Glazed Salmon with Pepper",
+      "price": "7.99",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/6snzZcs/lunch6.png"
+    }
+  ],
+  "breakfast": [
+    {
+      "id": 1,
+      "name": "Bagel and cream chesee",
+      "price": "32.4",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/b7qvv3d/breakfast1.png"
+    },
+    {
+      "id": 2,
+      "name": "Breakfast Sandwitch",
+      "price": "14.9",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/zXBVLhP/breakfast2.png"
+    },
+    {
+      "id": 3,
+      "name": "Baked Chicken",
+      "price": "5.67",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/HHm5Dyr/breakfast3.png"
+    },
+    {
+      "id": 4,
+      "name": "Eggs Benedict",
+      "price": "6.78",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/s3dksGG/breakfast4.png"
+    },
+    {
+      "id": 5,
+      "name": "Toast Crosiant Fried Egg",
+      "price": "10",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/6sPxmVD/breakfast5.png"
+    },
+    {
+      "id": 6,
+      "name": "Full Breakfast Fried Egg Toast Brunch",
+      "price": "3.99",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/6WDpRY6/breakfast6.png"
+    }
+  ],
+  "dinner": [
+    {
+      "id": 1,
+      "name": "Salmon with Grapefruit and Lentil Salad",
+      "price": "50",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/TmVTJHB/dinner1.png"
+    },
+    {
+      "id": 2,
+      "name": "Lemony Salmon Piccata",
+      "price": "43.2",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/NLfNwXy/dinner2.png"
+    },
+    {
+      "id": 3,
+      "name": "Tenderloin With Quinoa Pilaf",
+      "price": "15.77",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/1fd8sHk/dinner3.png"
+    },
+    {
+      "id": 4,
+      "name": "Fried Rice with Cheese",
+      "price": "35.99",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis aliquam fugit, itaque illum quasi.",
+      "image": "https://i.ibb.co/T1S5Hd2/dinner4.png"
+    },
+    {
+      "id": 5,
+      "name": "Garlic Butter Baked Salmon",
+      "price": "28.99",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et?",
+      "image": "https://i.ibb.co/Z25b8sV/dinner5.png"
+    },
+    {
+      "id": 6,
+      "name": "Baked Chicken",
+      "price": "32.6",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, ",
+      "image": "https://i.ibb.co/K7FF1K3/dinner6.png"
+    }
+  ],
+  "whyChoose": [
+    {
+      "id": 1,
+      "title": "Fast Delivery",
+      "image": "https://i.ibb.co/zft8YCf/adult-blur-blurred-background-687824.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis "
+    },
+    {
+      "id": 2,
+      "title": "A good auto responder",
+      "image": "https://i.ibb.co/Qrxkhyw/architecture-building-city-2047397.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis "
+    },
+    {
+      "id": 1,
+      "title": "Home delivery",
+      "image": "https://i.ibb.co/4F1Zfw4/chef-cook-food-33614.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendi"
+    }
+  ]
+}
