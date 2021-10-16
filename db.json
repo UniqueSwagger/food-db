@@ -132,25 +132,5 @@
       "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, ",
       "image": "https://i.ibb.co/K7FF1K3/dinner6.png"
     }
-  ],
-  "whyChoose": [
-    {
-      "id": 1,
-      "title": "Fast Delivery",
-      "image": "https://i.ibb.co/zft8YCf/adult-blur-blurred-background-687824.png",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis "
-    },
-    {
-      "id": 2,
-      "title": "A good auto responder",
-      "image": "https://i.ibb.co/Qrxkhyw/architecture-building-city-2047397.png",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendis "
-    },
-    {
-      "id": 1,
-      "title": "Home delivery",
-      "image": "https://i.ibb.co/4F1Zfw4/chef-cook-food-33614.png",
-      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam voluptatem reprehenderit quibusdam quisquam vero totam tenetur corrupti quasi nostrum. Voluptas sit harum saepe, dolor quam in minus adipisci accusantium numquam accusamus beatae qui, aliquam recusandae culpa et? Cupiditate, sunt quis quae veniam minus, et reiciendi"
-    }
   ]
 }
